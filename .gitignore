@@ -1,0 +1,39 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Dataset folder
+Assignment3-data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MacOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Other markdown files (only README.md should be pushed)
+COMPLETE_SOLUTION_SUMMARY.md
+EXPERIMENT_LOG.md
+PART2_SOLUTION.md
+PROJECT_OVERVIEW.md
+README_PART2.md
+RESULTS_SUMMARY.md
+SOLUTION_GUIDE.md
+QUICK_START.md
+
+# Temporary files
+*.log
+*.tmp
+

@@ -1,0 +1,15 @@
+{
+  "part": 2,
+  "clients_per_round": 4,
+  "local_epochs": 10,
+  "num_rounds": 50,
+  "batch_size": 32,
+  "learning_rate": 0.01,
+  "actor_creation": "dynamic",
+  "final_train_accuracy": 0.47609147042221933,
+  "final_train_loss": 2.0618803193812063,
+  "final_val_accuracy": 0.4279994313099776,
+  "final_val_loss": 2.402745046387591,
+  "test_accuracy": 0.4139740467071533,
+  "test_loss": 2.3423943519592285
+}

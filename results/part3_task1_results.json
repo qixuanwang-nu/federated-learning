@@ -1,0 +1,11 @@
+{
+  "part": 3,
+  "task": 1,
+  "noise_scale": 0.1,
+  "num_rounds": 50,
+  "clients_per_round_fraction": 0.1,
+  "final_train_accuracy": 0.30953346914016694,
+  "final_val_accuracy": 0.24151118499270316,
+  "test_accuracy": 0.30129799246788025,
+  "test_loss": 3.074707508087158
+}
