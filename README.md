@@ -1,6 +1,7 @@
 # Federated Learning Assignment - Complete Report
 
 **Student**: Qixuan Wang
+
 **Date**: November 19, 2025
 
 ---
