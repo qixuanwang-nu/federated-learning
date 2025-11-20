@@ -412,7 +412,4 @@ print(f"Test Accuracy: {test_acc:.4f}")
 2. Caldas, S., et al. (2018). "LEAF: A Benchmark for Federated Settings." arXiv:1812.01097.
 3. Dwork, C., & Roth, A. (2014). "The Algorithmic Foundations of Differential Privacy."
 
----
-
-**Assignment Complete**: All parts implemented and tested successfully.
 
